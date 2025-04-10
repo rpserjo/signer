@@ -8,4 +8,8 @@ This is *bold* text
 * is 
 * list
 
-include::myfile.adoc[]
+include::myfile_{version}.adoc[]
+
+ifdef::env-github[]
+This content is for GitHub only.
+endif::[]
