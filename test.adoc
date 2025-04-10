@@ -13,3 +13,7 @@ include::myfile_{version}.adoc[]
 ifdef::env-github[]
 This content is for GitHub only.
 endif::[]
+
+ifndef::env-github[]
+This content is not shown on GitHub.
+endif::[]
