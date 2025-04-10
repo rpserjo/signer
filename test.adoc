@@ -8,4 +8,4 @@ This is *bold* text
 * is 
 * list
 
-::include::myfile.adoc
+include::myfile.adoc[]
