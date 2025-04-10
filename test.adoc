@@ -7,3 +7,5 @@ This is *bold* text
 * this
 * is 
 * list
+
+::include::myfile.adoc
